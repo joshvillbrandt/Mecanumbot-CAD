@@ -1,7 +1,7 @@
 Mecanumbot-CAD
 ==============
 
-Solidworks files for the Mecanumbot Robot
+Solidworks files for the Mecanumbot robot.
 
 ![Mecanumbot assembly screenshot](MecanumBot Assem.JPG)
 
