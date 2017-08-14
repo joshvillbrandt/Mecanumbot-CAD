@@ -3,7 +3,7 @@ Mecanumbot-CAD
 
 Solidworks files for the Mecanumbot robot.
 
-![Mecanumbot assembly screenshot](MecanumBot Assem.JPG)
+![Mecanumbot assembly screenshot](MecanumBot%20Assem.JPG)
 
 ## Todo List
 
